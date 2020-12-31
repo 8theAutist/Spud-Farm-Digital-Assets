@@ -4,6 +4,7 @@
 
 #### Posting up the digital assets from the business I closed up earlier this year. When possible I'm posting the source files. This is my gift to the community, offering it under **[unlicense](http://unlicense.org)** I hope someone can do some good with them.
 
+<img style="float: right;" src="banner02.png">
 The Spud Farm Esports Academy was located in Edmonton, AB, Canada. We had day camps, home school classes, after school programs, with a focus of computer science and robotics. Competitive video game coaching, and organizing snd hosting of tournaments. Scouting for North American university Esports Programs (one of our students was actually scouted to North Carolina to play League of Legends as a Jungler). 
 
 Hopefully some of these assets can be used by someone to market to a kid who wouldnt have otherwise found the class he needed to become the next great developer.
