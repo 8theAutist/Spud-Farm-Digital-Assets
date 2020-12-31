@@ -1,6 +1,6 @@
-<img align="right" src="banner02.png"/>
-
 # Spud-Farm-Digital-Assets
+
+<img align="right" src="banner02.png"/>
 
 ### Digital Assets used at Spud Farm Esports Academy 
 
