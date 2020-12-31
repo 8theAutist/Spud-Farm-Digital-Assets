@@ -1,3 +1,4 @@
+<img align="right" src="banner02.png"/>
 
 # Spud-Farm-Digital-Assets
 
